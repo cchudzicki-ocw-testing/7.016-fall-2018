@@ -3,7 +3,9 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/7-016-introductory-biology-fall-2018/a632afeb8fcd5bfc886d5622f1ec4bb6_CALYA11terw.vtt
 file_type: application/x-subrip
+learning_resource_types: []
 resourcetype: Other
 title: 3play caption file
+type: OCWFile
 uid: a632afeb-8fcd-5bfc-886d-5622f1ec4bb6
 ---

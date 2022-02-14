@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: "Lecture 15: Genetics 4\u2014The Power of Model Organisms in Biological Discovery"
 uid: 9ae3bab8-a43c-53b4-3445-666eaeb50a91

@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: "Lecture 31: Immunology 2\u2014Memory, T Cells, and Autoimmunity"
 uid: 6586ffe3-98b5-583d-6f7d-538f4122ece2

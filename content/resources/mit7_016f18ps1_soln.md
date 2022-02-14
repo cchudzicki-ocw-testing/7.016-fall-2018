@@ -3,7 +3,12 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/7-016-introductory-biology-fall-2018/280be80ef2011b9e0558a9a3ff2fe1bf_MIT7_016F18PS1_soln.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: '7.016 Introductory Biology: Assignment 1 Solutions'
+type: OCWFile
 uid: 280be80e-f201-1b9e-0558-a9a3ff2fe1bf
 ---

@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: "Lecture 14: Genetics 3\u2014Linkage, Crossing Over"
 uid: 72c754b5-8708-d3b0-e888-8b3ab8969469

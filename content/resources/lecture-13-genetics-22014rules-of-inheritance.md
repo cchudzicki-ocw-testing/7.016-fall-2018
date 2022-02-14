@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: "Lecture 13: Genetics 2\u2014Rules of Inheritance"
 uid: faf76f9a-81a5-4233-c0a6-d49a43a9ffcf
