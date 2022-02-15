@@ -4,6 +4,7 @@ description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/7-016-introductory-biology-fall-2018/92cca00c4708468aa116055f8e9205aa_6rOvXGoXoJc.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: 92cca00c-4708-468a-a116-055f8e9205aa

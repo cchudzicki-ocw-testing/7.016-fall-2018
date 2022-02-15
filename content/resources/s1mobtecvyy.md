@@ -4,6 +4,7 @@ description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/7-016-introductory-biology-fall-2018/302c2a9d38b2d9706593b7412a13c501_s1MoBTEcVYY.srt
 file_type: application/x-subrip
 learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 302c2a9d-38b2-d970-6593-b7412a13c501
