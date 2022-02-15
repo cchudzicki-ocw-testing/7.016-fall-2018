@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: '7.016 Introductory Biology: Exam 1 Solutions '
-type: OCWFile
 uid: 63096f87-b1b2-818b-20ed-460646e1579c
 ---

@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: '7.016 Introductory Biology: Assignment 2 Solutions'
-type: OCWFile
 uid: e7e1c35f-70fa-d2c9-ff80-9cd0dd29e4d7
 ---

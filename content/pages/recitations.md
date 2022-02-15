@@ -3,7 +3,6 @@ content_type: page
 learning_resource_types:
 - Recitations
 title: Recitations
-type: CourseSection
 uid: a9fa686d-f823-808c-8ae5-b67f92e22385
 ---
 
