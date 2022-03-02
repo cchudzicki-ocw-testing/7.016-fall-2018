@@ -35,7 +35,7 @@ Assignments
 
 There will be six graded problem sets, but only your best five problem set scores will be used in determining your grade. While general discussions and collaboration on the problem sets are appropriate, detailed discussion of specific solutions or sharing of answers is a violation of the trust placed in all students in the class, each of whom is expected to produce their own unique set of answers. Students who copy problem sets or allow their answers to be copied will be assigned a zero for that problem set, and may be assigned a zero for all the problem sets.
 
-In addition to the five problem sets, students will have a sixth assignment in which they will choose to prepare either a news brief or a “hands-on” project, worth 4% of their final grade. Please refer to the {{< resource_link 6ed6bdac-cda3-a3b7-1732-ac482dac199c "Assignments" >}} section for more detail.
+In addition to the five problem sets, students will have a sixth assignment in which they will choose to prepare either a news brief or a “hands-on” project, worth 4% of their final grade. Please refer to the {{% resource_link 6ed6bdac-cda3-a3b7-1732-ac482dac199c "Assignments" %}} section for more detail.
 
 Exams
 -----
