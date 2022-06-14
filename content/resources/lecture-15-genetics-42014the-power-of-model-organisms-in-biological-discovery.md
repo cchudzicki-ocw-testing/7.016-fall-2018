@@ -31,3 +31,4 @@ Description
 In this lecture on model organisms, Professor Martin discusses how to go from a phenotype of interest (such as appearance or behavior) to identifying the genes and mechanisms that are important for that trait.
 
 **Instructor:** Adam Martin
+

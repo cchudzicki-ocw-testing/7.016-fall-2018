@@ -31,3 +31,4 @@ Description
 Professor Imperiali finishes up talking about transcription, and then focuses on transcription control for the remainder of the lecture. She ends with an introduction to translation, to be covered in detail during the next lecture.
 
 **Instructor:** Barbara Imperiali
+

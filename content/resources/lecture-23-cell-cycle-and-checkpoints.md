@@ -31,3 +31,4 @@ Description
 The theme for the next few lectures is the cell division cycle. Professor Martin kicks off this series with a discussion on what needs to happen in a cell during the cell division cycle, and what checkpoints ensure the proper order of events.
 
 **Instructor:** Adam Martin
+

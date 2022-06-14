@@ -31,3 +31,4 @@ Description
 Beginning with the example of DNA microarrays, Professor Imperiali focuses on some of the applications and uses of fluorescent proteins in biological research.
 
 **Instructor:** Barbara Imperiali
+

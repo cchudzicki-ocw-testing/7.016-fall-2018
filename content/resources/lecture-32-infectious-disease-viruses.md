@@ -31,3 +31,4 @@ Description
 This lecture covers microorganisms and some of the threats they pose to human health, such as infectious diseases. Professor Imperiali also discusses antibiotics and the mechanisms by which bacteria become resistant.
 
 **Instructor:** Barbara Imperiali
+

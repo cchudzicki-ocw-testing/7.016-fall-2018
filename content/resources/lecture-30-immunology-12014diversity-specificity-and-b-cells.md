@@ -31,3 +31,4 @@ Description
 Professor Martin introduces the topic of immunity, defined as resistance to disease based on prior exposure. Beginning with vaccines as an example, he gives an overview of the immune system, followed by its properties of specificity, diversity, and memory.
 
 **Instructor:** Adam Martin
+

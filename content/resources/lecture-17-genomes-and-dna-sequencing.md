@@ -31,3 +31,4 @@ Description
 Professor Martin talks about DNA sequencing and why it is helpful to know the DNA sequence, followed by linkage mapping and then the different methods of sequencing DNA.
 
 **Instructor:** Adam Martin
+

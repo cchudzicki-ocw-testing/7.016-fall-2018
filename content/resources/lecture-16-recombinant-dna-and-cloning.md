@@ -31,3 +31,4 @@ Description
 In today's lecture, the focus shifts from pure genetics to molecular genetics, beginning with cloning, followed by polymerase chain reaction (PCR), and finally genome editing.
 
 **Instructor:** Adam Martin
+

@@ -31,3 +31,4 @@ Description
 Professor Imperiali goes through the mechanisms of how bacteria develop resistance against antibiotics. Following this, she introduces viruses and discusses some of their characteristics.
 
 **Instructor:** Barbara Imperiali
+

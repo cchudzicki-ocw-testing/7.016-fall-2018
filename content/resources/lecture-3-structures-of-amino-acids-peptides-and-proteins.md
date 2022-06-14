@@ -31,3 +31,4 @@ Description
 After wrapping up the lecture on lipids, Professor Imperiali moves on to discussing amino acids, peptides, and proteins.
 
 **Instructor:** Barbara Imperiali
+

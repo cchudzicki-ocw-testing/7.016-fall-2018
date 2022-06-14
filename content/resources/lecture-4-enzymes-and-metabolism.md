@@ -31,3 +31,4 @@ Description
 After a brief re-cap of the last lecture, Professor Imperiali continues with amino acids, peptides, and proteins, with a focus on a protein variant that is the cause of sickle cell anaemia. She then introduces enzymes for the remainder of class.
 
 **Instructor:** Barbara Imperiali
+

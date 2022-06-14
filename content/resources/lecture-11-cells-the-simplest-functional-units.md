@@ -31,3 +31,4 @@ Description
 Professor Martin discusses the key features of cells, from the relatively simple organization of prokaryotic cells to the more complex organization of eukaryotic cells. He then covers cell compartments, transport, mitochondria, and the cytoskeleton.
 
 **Instructor:** Adam Martin
+

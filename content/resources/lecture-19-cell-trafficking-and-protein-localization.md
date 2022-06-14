@@ -31,3 +31,4 @@ Description
 Professor Imperiali talks about trafficking, or how things get to where they need to be within a cell. She will discuss the mechanisms by which proteins are coded very early on in their biogenesis, in order to go to certain locales in or out of the cell.
 
 **Instructor:** Barbara Imperiali
+

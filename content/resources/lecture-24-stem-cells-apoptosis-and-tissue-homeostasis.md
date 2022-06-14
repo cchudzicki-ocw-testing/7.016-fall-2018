@@ -31,3 +31,4 @@ Description
 Professor Martin talks about the regenerative and renewal capabilities of cells, covering adult stem cells and apoptosis. To help illustrate this, he uses the lining (epithelium) of the intestine as a model organ.
 
 **Instructor:** Adam Martin
+
