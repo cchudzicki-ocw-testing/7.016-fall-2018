@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, prerequisites,
+  the required textbook, recitations, tutors, assignments, exams, and grading.
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection
